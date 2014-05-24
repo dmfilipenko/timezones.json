@@ -1,4 +1,4 @@
 timezones.json
 ==============
 
-Full list of timezones
+Full list of UTC timezones
