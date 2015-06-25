@@ -13,9 +13,6 @@
     "time",
     "UTC"
   ],
-  "files": [
-    "timezones.json"
-  ],
   "author": "Dmitriy Filipenko",
   "license": "MIT",
   "bugs": {
