@@ -6,7 +6,6 @@
     "isdst": false,
     "text": "(UTC-12:00) International Date Line West",
     "utc": [
-      "Etc/GMT+12",
       "Etc/GMT+12"
     ]
   },
@@ -18,10 +17,9 @@
     "text": "(UTC-11:00) Coordinated Universal Time-11",
     "utc": [
       "Etc/GMT+11",
-      "Pacific/Pago_Pago",
-      "Pacific/Niue",
       "Pacific/Midway",
-      "Etc/GMT+11"
+      "Pacific/Niue",
+      "Pacific/Pago_Pago"
     ]
   },
   {
@@ -31,12 +29,11 @@
     "isdst": false,
     "text": "(UTC-10:00) Hawaii",
     "utc": [
+      "Etc/GMT+10",
       "Pacific/Honolulu",
-      "Pacific/Rarotonga",
-      "Pacific/Tahiti",
       "Pacific/Johnston",
-      "Pacific/Honolulu",
-      "Etc/GMT+10"
+      "Pacific/Rarotonga",
+      "Pacific/Tahiti"
     ]
   },
   {
@@ -47,7 +44,10 @@
     "text": "(UTC-09:00) Alaska",
     "utc": [
       "America/Anchorage",
-      "America/Anchorage America/Juneau America/Nome America/Sitka America/Yakutat"
+      "America/Juneau",
+      "America/Nome",
+      "America/Sitka",
+      "America/Yakutat"
     ]
   },
   {
@@ -57,7 +57,6 @@
     "isdst": true,
     "text": "(UTC-08:00) Baja California",
     "utc": [
-      "America/Santa_Isabel",
       "America/Santa_Isabel"
     ]
   },
@@ -68,10 +67,11 @@
     "isdst": true,
     "text": "(UTC-08:00) Pacific Time (US & Canada)",
     "utc": [
+      "America/Dawson",
       "America/Los_Angeles",
-      "America/Vancouver America/Dawson America/Whitehorse",
       "America/Tijuana",
-      "America/Los_Angeles",
+      "America/Vancouver",
+      "America/Whitehorse",
       "PST8PDT"
     ]
   },
@@ -82,8 +82,8 @@
     "isdst": false,
     "text": "(UTC-07:00) Arizona",
     "utc": [
-      "America/Phoenix",
-      "America/Dawson_Creek America/Creston",
+      "America/Creston",
+      "America/Dawson_Creek",
       "America/Hermosillo",
       "America/Phoenix",
       "Etc/GMT+7"
@@ -97,7 +97,7 @@
     "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
     "utc": [
       "America/Chihuahua",
-      "America/Chihuahua America/Mazatlan"
+      "America/Mazatlan"
     ]
   },
   {
@@ -107,10 +107,13 @@
     "isdst": true,
     "text": "(UTC-07:00) Mountain Time (US & Canada)",
     "utc": [
+      "America/Boise",
+      "America/Cambridge_Bay",
       "America/Denver",
-      "America/Edmonton America/Cambridge_Bay America/Inuvik America/Yellowknife",
+      "America/Edmonton",
+      "America/Inuvik",
       "America/Ojinaga",
-      "America/Denver America/Boise",
+      "America/Yellowknife",
       "MST7MDT"
     ]
   },
@@ -121,15 +124,14 @@
     "isdst": false,
     "text": "(UTC-06:00) Central America",
     "utc": [
-      "America/Guatemala",
       "America/Belize",
       "America/Costa_Rica",
-      "Pacific/Galapagos",
-      "America/Guatemala",
-      "America/Tegucigalpa",
-      "America/Managua",
       "America/El_Salvador",
-      "Etc/GMT+6"
+      "America/Guatemala",
+      "America/Managua",
+      "America/Tegucigalpa",
+      "Etc/GMT+6",
+      "Pacific/Galapagos"
     ]
   },
   {
@@ -140,9 +142,17 @@
     "text": "(UTC-06:00) Central Time (US & Canada)",
     "utc": [
       "America/Chicago",
-      "America/Winnipeg America/Rainy_River America/Rankin_Inlet America/Resolute",
+      "America/Indiana/Knox",
+      "America/Indiana/Tell_City",
       "America/Matamoros",
-      "America/Chicago America/Indiana/Knox America/Indiana/Tell_City America/Menominee America/North_Dakota/Beulah America/North_Dakota/Center America/North_Dakota/New_Salem",
+      "America/Menominee",
+      "America/North_Dakota/Beulah",
+      "America/North_Dakota/Center",
+      "America/North_Dakota/New_Salem",
+      "America/Rainy_River",
+      "America/Rankin_Inlet",
+      "America/Resolute",
+      "America/Winnipeg",
       "CST6CDT"
     ]
   },
@@ -153,8 +163,11 @@
     "isdst": true,
     "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
     "utc": [
+      "America/Bahia_Banderas",
+      "America/Cancun",
+      "America/Merida",
       "America/Mexico_City",
-      "America/Mexico_City America/Bahia_Banderas America/Cancun America/Merida America/Monterrey"
+      "America/Monterrey"
     ]
   },
   {
@@ -165,7 +178,7 @@
     "text": "(UTC-06:00) Saskatchewan",
     "utc": [
       "America/Regina",
-      "America/Regina America/Swift_Current"
+      "America/Swift_Current"
     ]
   },
   {
@@ -176,14 +189,14 @@
     "text": "(UTC-05:00) Bogota, Lima, Quito",
     "utc": [
       "America/Bogota",
-      "America/Rio_Branco America/Eirunepe",
+      "America/Cayman",
       "America/Coral_Harbour",
-      "America/Bogota",
+      "America/Eirunepe",
       "America/Guayaquil",
       "America/Jamaica",
-      "America/Cayman",
-      "America/Panama",
       "America/Lima",
+      "America/Panama",
+      "America/Rio_Branco",
       "Etc/GMT+5"
     ]
   },
@@ -194,12 +207,22 @@
     "isdst": true,
     "text": "(UTC-05:00) Eastern Time (US & Canada)",
     "utc": [
-      "America/New_York",
-      "America/Nassau",
-      "America/Toronto America/Iqaluit America/Montreal America/Nipigon America/Pangnirtung America/Thunder_Bay",
+      "America/Detroit",
       "America/Havana",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Iqaluit",
+      "America/Kentucky/Monticello",
+      "America/Louisville",
+      "America/Montreal",
+      "America/Nassau",
+      "America/New_York",
+      "America/Nipigon",
+      "America/Pangnirtung",
       "America/Port-au-Prince",
-      "America/New_York America/Detroit America/Indiana/Petersburg America/Indiana/Vincennes America/Indiana/Winamac America/Kentucky/Monticello America/Louisville",
+      "America/Thunder_Bay",
+      "America/Toronto",
       "EST5EDT"
     ]
   },
@@ -210,8 +233,9 @@
     "isdst": true,
     "text": "(UTC-05:00) Indiana (East)",
     "utc": [
-      "America/Indianapolis",
-      "America/Indianapolis America/Indiana/Marengo America/Indiana/Vevay"
+      "America/Indiana/Marengo",
+      "America/Indiana/Vevay",
+      "America/Indianapolis"
     ]
   },
   {
@@ -221,7 +245,6 @@
     "isdst": false,
     "text": "(UTC-04:30) Caracas",
     "utc": [
-      "America/Caracas",
       "America/Caracas"
     ]
   },
@@ -232,7 +255,6 @@
     "isdst": false,
     "text": "(UTC-04:00) Asuncion",
     "utc": [
-      "America/Asuncion",
       "America/Asuncion"
     ]
   },
@@ -243,10 +265,12 @@
     "isdst": true,
     "text": "(UTC-04:00) Atlantic Time (Canada)",
     "utc": [
+      "America/Glace_Bay",
+      "America/Goose_Bay",
       "America/Halifax",
-      "Atlantic/Bermuda",
-      "America/Halifax America/Glace_Bay America/Goose_Bay America/Moncton",
-      "America/Thule"
+      "America/Moncton",
+      "America/Thule",
+      "Atlantic/Bermuda"
     ]
   },
   {
@@ -256,8 +280,8 @@
     "isdst": false,
     "text": "(UTC-04:00) Cuiaba",
     "utc": [
-      "America/Cuiaba",
-      "America/Cuiaba America/Campo_Grande"
+      "America/Campo_Grande",
+      "America/Cuiaba"
     ]
   },
   {
@@ -267,34 +291,35 @@
     "isdst": false,
     "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
     "utc": [
-      "America/La_Paz",
-      "America/Antigua",
       "America/Anguilla",
+      "America/Antigua",
       "America/Aruba",
       "America/Barbados",
-      "America/St_Barthelemy",
-      "America/La_Paz",
-      "America/Kralendijk",
-      "America/Manaus America/Boa_Vista America/Porto_Velho",
       "America/Blanc-Sablon",
+      "America/Boa_Vista",
       "America/Curacao",
       "America/Dominica",
-      "America/Santo_Domingo",
+      "America/Grand_Turk",
       "America/Grenada",
       "America/Guadeloupe",
       "America/Guyana",
-      "America/St_Kitts",
-      "America/St_Lucia",
+      "America/Kralendijk",
+      "America/La_Paz",
+      "America/Lower_Princes",
+      "America/Manaus",
       "America/Marigot",
       "America/Martinique",
       "America/Montserrat",
-      "America/Puerto_Rico",
-      "America/Lower_Princes",
-      "America/Grand_Turk",
       "America/Port_of_Spain",
+      "America/Porto_Velho",
+      "America/Puerto_Rico",
+      "America/Santo_Domingo",
+      "America/St_Barthelemy",
+      "America/St_Kitts",
+      "America/St_Lucia",
+      "America/St_Thomas",
       "America/St_Vincent",
       "America/Tortola",
-      "America/St_Thomas",
       "Etc/GMT+4"
     ]
   },
@@ -306,8 +331,7 @@
     "text": "(UTC-04:00) Santiago",
     "utc": [
       "America/Santiago",
-      "Antarctica/Palmer",
-      "America/Santiago"
+      "Antarctica/Palmer"
     ]
   },
   {
@@ -317,7 +341,6 @@
     "isdst": true,
     "text": "(UTC-03:30) Newfoundland",
     "utc": [
-      "America/St_Johns",
       "America/St_Johns"
     ]
   },
@@ -328,7 +351,6 @@
     "isdst": false,
     "text": "(UTC-03:00) Brasilia",
     "utc": [
-      "America/Sao_Paulo",
       "America/Sao_Paulo"
     ]
   },
@@ -339,8 +361,18 @@
     "isdst": false,
     "text": "(UTC-03:00) Buenos Aires",
     "utc": [
+      "America/Argentina/La_Rioja",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Salta",
+      "America/Argentina/San_Juan",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Ushuaia",
       "America/Buenos_Aires",
-      "America/Buenos_Aires America/Argentina/La_Rioja America/Argentina/Rio_Gallegos America/Argentina/Salta America/Argentina/San_Juan America/Argentina/San_Luis America/Argentina/Tucuman America/Argentina/Ushuaia America/Catamarca America/Cordoba America/Jujuy America/Mendoza"
+      "America/Catamarca",
+      "America/Cordoba",
+      "America/Jujuy",
+      "America/Mendoza"
     ]
   },
   {
@@ -350,12 +382,16 @@
     "isdst": false,
     "text": "(UTC-03:00) Cayenne, Fortaleza",
     "utc": [
+      "America/Araguaina",
+      "America/Belem",
       "America/Cayenne",
-      "Antarctica/Rothera",
-      "America/Fortaleza America/Araguaina America/Belem America/Maceio America/Recife America/Santarem",
-      "Atlantic/Stanley",
-      "America/Cayenne",
+      "America/Fortaleza",
+      "America/Maceio",
       "America/Paramaribo",
+      "America/Recife",
+      "America/Santarem",
+      "Antarctica/Rothera",
+      "Atlantic/Stanley",
       "Etc/GMT+3"
     ]
   },
@@ -366,7 +402,6 @@
     "isdst": true,
     "text": "(UTC-03:00) Greenland",
     "utc": [
-      "America/Godthab",
       "America/Godthab"
     ]
   },
@@ -377,7 +412,6 @@
     "isdst": false,
     "text": "(UTC-03:00) Montevideo",
     "utc": [
-      "America/Montevideo",
       "America/Montevideo"
     ]
   },
@@ -388,7 +422,6 @@
     "isdst": false,
     "text": "(UTC-03:00) Salvador",
     "utc": [
-      "America/Bahia",
       "America/Bahia"
     ]
   },
@@ -399,7 +432,6 @@
     "isdst": false,
     "text": "(UTC-02:00) Coordinated Universal Time-02",
     "utc": [
-      "Etc/GMT+2",
       "America/Noronha",
       "Atlantic/South_Georgia",
       "Etc/GMT+2"
@@ -419,7 +451,6 @@
     "isdst": true,
     "text": "(UTC-01:00) Azores",
     "utc": [
-      "Atlantic/Azores",
       "America/Scoresbysund",
       "Atlantic/Azores"
     ]
@@ -432,7 +463,6 @@
     "text": "(UTC-01:00) Cape Verde Is.",
     "utc": [
       "Atlantic/Cape_Verde",
-      "Atlantic/Cape_Verde",
       "Etc/GMT+1"
     ]
   },
@@ -444,8 +474,7 @@
     "text": "(UTC) Casablanca",
     "utc": [
       "Africa/Casablanca",
-      "Africa/El_Aaiun",
-      "Africa/Casablanca"
+      "Africa/El_Aaiun"
     ]
   },
   {
@@ -455,7 +484,6 @@
     "isdst": false,
     "text": "(UTC) Coordinated Universal Time",
     "utc": [
-      "Etc/GMT",
       "America/Danmarkshavn",
       "Etc/GMT"
     ]
@@ -467,15 +495,15 @@
     "isdst": true,
     "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
     "utc": [
-      "Europe/London",
       "Atlantic/Canary",
       "Atlantic/Faeroe",
-      "Europe/London",
-      "Europe/Guernsey",
+      "Atlantic/Madeira",
       "Europe/Dublin",
+      "Europe/Guernsey",
       "Europe/Isle_of_Man",
       "Europe/Jersey",
-      "Europe/Lisbon Atlantic/Madeira"
+      "Europe/Lisbon",
+      "Europe/London"
     ]
   },
   {
@@ -485,22 +513,21 @@
     "isdst": false,
     "text": "(UTC) Monrovia, Reykjavik",
     "utc": [
-      "Atlantic/Reykjavik",
-      "Africa/Ouagadougou",
       "Africa/Abidjan",
       "Africa/Accra",
-      "Africa/Banjul",
-      "Africa/Conakry",
-      "Africa/Bissau",
-      "Atlantic/Reykjavik",
-      "Africa/Monrovia",
       "Africa/Bamako",
-      "Africa/Nouakchott",
-      "Atlantic/St_Helena",
-      "Africa/Freetown",
+      "Africa/Banjul",
+      "Africa/Bissau",
+      "Africa/Conakry",
       "Africa/Dakar",
+      "Africa/Freetown",
+      "Africa/Lome",
+      "Africa/Monrovia",
+      "Africa/Nouakchott",
+      "Africa/Ouagadougou",
       "Africa/Sao_Tome",
-      "Africa/Lome"
+      "Atlantic/Reykjavik",
+      "Atlantic/St_Helena"
     ]
   },
   {
@@ -510,23 +537,23 @@
     "isdst": true,
     "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
     "utc": [
-      "Europe/Berlin",
-      "Europe/Andorra",
-      "Europe/Vienna",
-      "Europe/Zurich",
-      "Europe/Berlin Europe/Busingen",
-      "Europe/Gibraltar",
-      "Europe/Rome",
-      "Europe/Vaduz",
-      "Europe/Luxembourg",
-      "Europe/Monaco",
-      "Europe/Malta",
-      "Europe/Amsterdam",
-      "Europe/Oslo",
-      "Europe/Stockholm",
       "Arctic/Longyearbyen",
+      "Europe/Amsterdam",
+      "Europe/Andorra",
+      "Europe/Berlin",
+      "Europe/Busingen",
+      "Europe/Gibraltar",
+      "Europe/Luxembourg",
+      "Europe/Malta",
+      "Europe/Monaco",
+      "Europe/Oslo",
+      "Europe/Rome",
       "Europe/San_Marino",
-      "Europe/Vatican"
+      "Europe/Stockholm",
+      "Europe/Vaduz",
+      "Europe/Vatican",
+      "Europe/Vienna",
+      "Europe/Zurich"
     ]
   },
   {
@@ -536,14 +563,13 @@
     "isdst": true,
     "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
     "utc": [
-      "Europe/Budapest",
-      "Europe/Tirane",
-      "Europe/Prague",
-      "Europe/Budapest",
-      "Europe/Podgorica",
       "Europe/Belgrade",
+      "Europe/Bratislava",
+      "Europe/Budapest",
       "Europe/Ljubljana",
-      "Europe/Bratislava"
+      "Europe/Podgorica",
+      "Europe/Prague",
+      "Europe/Tirane"
     ]
   },
   {
@@ -553,10 +579,10 @@
     "isdst": true,
     "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
     "utc": [
-      "Europe/Paris",
+      "Africa/Ceuta",
       "Europe/Brussels",
       "Europe/Copenhagen",
-      "Europe/Madrid Africa/Ceuta",
+      "Europe/Madrid",
       "Europe/Paris"
     ]
   },
@@ -567,11 +593,10 @@
     "isdst": true,
     "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
     "utc": [
-      "Europe/Warsaw",
       "Europe/Sarajevo",
-      "Europe/Zagreb",
       "Europe/Skopje",
-      "Europe/Warsaw"
+      "Europe/Warsaw",
+      "Europe/Zagreb"
     ]
   },
   {
@@ -581,19 +606,18 @@
     "isdst": false,
     "text": "(UTC+01:00) West Central Africa",
     "utc": [
-      "Africa/Lagos",
-      "Africa/Luanda",
-      "Africa/Porto-Novo",
-      "Africa/Kinshasa",
+      "Africa/Algiers",
       "Africa/Bangui",
       "Africa/Brazzaville",
       "Africa/Douala",
-      "Africa/Algiers",
-      "Africa/Libreville",
-      "Africa/Malabo",
-      "Africa/Niamey",
+      "Africa/Kinshasa",
       "Africa/Lagos",
+      "Africa/Libreville",
+      "Africa/Luanda",
+      "Africa/Malabo",
       "Africa/Ndjamena",
+      "Africa/Niamey",
+      "Africa/Porto-Novo",
       "Africa/Tunis",
       "Etc/GMT-1"
     ]
@@ -605,7 +629,6 @@
     "isdst": false,
     "text": "(UTC+01:00) Windhoek",
     "utc": [
-      "Africa/Windhoek",
       "Africa/Windhoek"
     ]
   },
@@ -616,11 +639,10 @@
     "isdst": true,
     "text": "(UTC+02:00) Athens, Bucharest",
     "utc": [
-      "Europe/Bucharest",
       "Asia/Nicosia",
       "Europe/Athens",
-      "Europe/Chisinau",
-      "Europe/Bucharest"
+      "Europe/Bucharest",
+      "Europe/Chisinau"
     ]
   },
   {
@@ -630,7 +652,6 @@
     "isdst": true,
     "text": "(UTC+02:00) Beirut",
     "utc": [
-      "Asia/Beirut",
       "Asia/Beirut"
     ]
   },
@@ -641,7 +662,6 @@
     "isdst": false,
     "text": "(UTC+02:00) Cairo",
     "utc": [
-      "Africa/Cairo",
       "Africa/Cairo"
     ]
   },
@@ -652,7 +672,6 @@
     "isdst": true,
     "text": "(UTC+02:00) Damascus",
     "utc": [
-      "Asia/Damascus",
       "Asia/Damascus"
     ]
   },
@@ -670,18 +689,17 @@
     "isdst": false,
     "text": "(UTC+02:00) Harare, Pretoria",
     "utc": [
-      "Africa/Johannesburg",
+      "Africa/Blantyre",
       "Africa/Bujumbura",
       "Africa/Gaborone",
-      "Africa/Lubumbashi",
-      "Africa/Maseru",
-      "Africa/Blantyre",
-      "Africa/Maputo",
-      "Africa/Kigali",
-      "Africa/Mbabane",
-      "Africa/Johannesburg",
-      "Africa/Lusaka",
       "Africa/Harare",
+      "Africa/Johannesburg",
+      "Africa/Kigali",
+      "Africa/Lubumbashi",
+      "Africa/Lusaka",
+      "Africa/Maputo",
+      "Africa/Maseru",
+      "Africa/Mbabane",
       "Etc/GMT-2"
     ]
   },
@@ -692,14 +710,15 @@
     "isdst": true,
     "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
     "utc": [
+      "Europe/Helsinki",
       "Europe/Kiev",
       "Europe/Mariehamn",
+      "Europe/Riga",
       "Europe/Sofia",
       "Europe/Tallinn",
-      "Europe/Helsinki",
+      "Europe/Uzhgorod",
       "Europe/Vilnius",
-      "Europe/Riga",
-      "Europe/Kiev Europe/Uzhgorod Europe/Zaporozhye"
+      "Europe/Zaporozhye"
     ]
   },
   {
@@ -709,7 +728,6 @@
     "isdst": true,
     "text": "(UTC+02:00) Istanbul",
     "utc": [
-      "Europe/Istanbul",
       "Europe/Istanbul"
     ]
   },
@@ -720,7 +738,6 @@
     "isdst": true,
     "text": "(UTC+02:00) Jerusalem",
     "utc": [
-      "Asia/Jerusalem",
       "Asia/Jerusalem"
     ]
   },
@@ -731,7 +748,6 @@
     "isdst": false,
     "text": "(UTC+02:00) Tripoli",
     "utc": [
-      "Africa/Tripoli",
       "Africa/Tripoli"
     ]
   },
@@ -742,7 +758,6 @@
     "isdst": false,
     "text": "(UTC+03:00) Amman",
     "utc": [
-      "Asia/Amman",
       "Asia/Amman"
     ]
   },
@@ -753,7 +768,6 @@
     "isdst": false,
     "text": "(UTC+03:00) Baghdad",
     "utc": [
-      "Asia/Baghdad",
       "Asia/Baghdad"
     ]
   },
@@ -765,8 +779,7 @@
     "text": "(UTC+03:00) Kaliningrad, Minsk",
     "utc": [
       "Europe/Kaliningrad",
-      "Europe/Minsk",
-      "Europe/Kaliningrad"
+      "Europe/Minsk"
     ]
   },
   {
@@ -776,12 +789,11 @@
     "isdst": false,
     "text": "(UTC+03:00) Kuwait, Riyadh",
     "utc": [
-      "Asia/Riyadh",
+      "Asia/Aden",
       "Asia/Bahrain",
       "Asia/Kuwait",
       "Asia/Qatar",
-      "Asia/Riyadh",
-      "Asia/Aden"
+      "Asia/Riyadh"
     ]
   },
   {
@@ -791,21 +803,20 @@
     "isdst": false,
     "text": "(UTC+03:00) Nairobi",
     "utc": [
-      "Africa/Nairobi",
-      "Antarctica/Syowa",
-      "Africa/Djibouti",
-      "Africa/Asmera",
       "Africa/Addis_Ababa",
-      "Africa/Nairobi",
-      "Indian/Comoro",
-      "Indian/Antananarivo",
+      "Africa/Asmera",
+      "Africa/Dar_es_Salaam",
+      "Africa/Djibouti",
+      "Africa/Juba",
+      "Africa/Kampala",
       "Africa/Khartoum",
       "Africa/Mogadishu",
-      "Africa/Juba",
-      "Africa/Dar_es_Salaam",
-      "Africa/Kampala",
-      "Indian/Mayotte",
-      "Etc/GMT-3"
+      "Africa/Nairobi",
+      "Antarctica/Syowa",
+      "Etc/GMT-3",
+      "Indian/Antananarivo",
+      "Indian/Comoro",
+      "Indian/Mayotte"
     ]
   },
   {
@@ -815,7 +826,6 @@
     "isdst": true,
     "text": "(UTC+03:30) Tehran",
     "utc": [
-      "Asia/Tehran",
       "Asia/Tehran"
     ]
   },
@@ -826,7 +836,6 @@
     "isdst": false,
     "text": "(UTC+04:00) Abu Dhabi, Muscat",
     "utc": [
-      "Asia/Dubai",
       "Asia/Dubai",
       "Asia/Muscat",
       "Etc/GMT-4"
@@ -839,7 +848,6 @@
     "isdst": true,
     "text": "(UTC+04:00) Baku",
     "utc": [
-      "Asia/Baku",
       "Asia/Baku"
     ]
   },
@@ -851,7 +859,9 @@
     "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
     "utc": [
       "Europe/Moscow",
-      "Europe/Moscow Europe/Samara Europe/Simferopol Europe/Volgograd"
+      "Europe/Samara",
+      "Europe/Simferopol",
+      "Europe/Volgograd"
     ]
   },
   {
@@ -861,10 +871,9 @@
     "isdst": false,
     "text": "(UTC+04:00) Port Louis",
     "utc": [
+      "Indian/Mahe",
       "Indian/Mauritius",
-      "Indian/Mauritius",
-      "Indian/Reunion",
-      "Indian/Mahe"
+      "Indian/Reunion"
     ]
   },
   {
@@ -874,7 +883,6 @@
     "isdst": false,
     "text": "(UTC+04:00) Tbilisi",
     "utc": [
-      "Asia/Tbilisi",
       "Asia/Tbilisi"
     ]
   },
@@ -885,7 +893,6 @@
     "isdst": false,
     "text": "(UTC+04:00) Yerevan",
     "utc": [
-      "Asia/Yerevan",
       "Asia/Yerevan"
     ]
   },
@@ -896,7 +903,6 @@
     "isdst": false,
     "text": "(UTC+04:30) Kabul",
     "utc": [
-      "Asia/Kabul",
       "Asia/Kabul"
     ]
   },
@@ -907,15 +913,17 @@
     "isdst": false,
     "text": "(UTC+05:00) Ashgabat, Tashkent",
     "utc": [
-      "Asia/Tashkent",
       "Antarctica/Mawson",
-      "Asia/Oral Asia/Aqtau Asia/Aqtobe",
-      "Indian/Maldives",
-      "Indian/Kerguelen",
-      "Asia/Dushanbe",
+      "Asia/Aqtau",
+      "Asia/Aqtobe",
       "Asia/Ashgabat",
-      "Asia/Tashkent Asia/Samarkand",
-      "Etc/GMT-5"
+      "Asia/Dushanbe",
+      "Asia/Oral",
+      "Asia/Samarkand",
+      "Asia/Tashkent",
+      "Etc/GMT-5",
+      "Indian/Kerguelen",
+      "Indian/Maldives"
     ]
   },
   {
@@ -925,7 +933,6 @@
     "isdst": false,
     "text": "(UTC+05:00) Islamabad, Karachi",
     "utc": [
-      "Asia/Karachi",
       "Asia/Karachi"
     ]
   },
@@ -936,7 +943,6 @@
     "isdst": false,
     "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
     "utc": [
-      "Asia/Calcutta",
       "Asia/Calcutta"
     ]
   },
@@ -947,7 +953,6 @@
     "isdst": false,
     "text": "(UTC+05:30) Sri Jayawardenepura",
     "utc": [
-      "Asia/Colombo",
       "Asia/Colombo"
     ]
   },
@@ -958,7 +963,6 @@
     "isdst": false,
     "text": "(UTC+05:45) Kathmandu",
     "utc": [
-      "Asia/Katmandu",
       "Asia/Katmandu"
     ]
   },
@@ -969,13 +973,13 @@
     "isdst": false,
     "text": "(UTC+06:00) Astana",
     "utc": [
-      "Asia/Almaty",
       "Antarctica/Vostok",
-      "Asia/Urumqi",
-      "Indian/Chagos",
+      "Asia/Almaty",
       "Asia/Bishkek",
-      "Asia/Almaty Asia/Qyzylorda",
-      "Etc/GMT-6"
+      "Asia/Qyzylorda",
+      "Asia/Urumqi",
+      "Etc/GMT-6",
+      "Indian/Chagos"
     ]
   },
   {
@@ -985,7 +989,6 @@
     "isdst": false,
     "text": "(UTC+06:00) Dhaka",
     "utc": [
-      "Asia/Dhaka",
       "Asia/Dhaka",
       "Asia/Thimphu"
     ]
@@ -997,7 +1000,6 @@
     "isdst": false,
     "text": "(UTC+06:00) Ekaterinburg",
     "utc": [
-      "Asia/Yekaterinburg",
       "Asia/Yekaterinburg"
     ]
   },
@@ -1009,8 +1011,7 @@
     "text": "(UTC+06:30) Yangon (Rangoon)",
     "utc": [
       "Asia/Rangoon",
-      "Indian/Cocos",
-      "Asia/Rangoon"
+      "Indian/Cocos"
     ]
   },
   {
@@ -1020,16 +1021,16 @@
     "isdst": false,
     "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
     "utc": [
-      "Asia/Bangkok",
       "Antarctica/Davis",
-      "Indian/Christmas",
-      "Asia/Jakarta Asia/Pontianak",
-      "Asia/Phnom_Penh",
-      "Asia/Vientiane",
-      "Asia/Hovd",
       "Asia/Bangkok",
+      "Asia/Hovd",
+      "Asia/Jakarta",
+      "Asia/Phnom_Penh",
+      "Asia/Pontianak",
       "Asia/Saigon",
-      "Etc/GMT-7"
+      "Asia/Vientiane",
+      "Etc/GMT-7",
+      "Indian/Christmas"
     ]
   },
   {
@@ -1039,8 +1040,9 @@
     "isdst": false,
     "text": "(UTC+07:00) Novosibirsk",
     "utc": [
+      "Asia/Novokuznetsk",
       "Asia/Novosibirsk",
-      "Asia/Novosibirsk Asia/Novokuznetsk Asia/Omsk"
+      "Asia/Omsk"
     ]
   },
   {
@@ -1050,10 +1052,9 @@
     "isdst": false,
     "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
     "utc": [
-      "Asia/Shanghai",
-      "Asia/Shanghai",
       "Asia/Hong_Kong",
-      "Asia/Macau"
+      "Asia/Macau",
+      "Asia/Shanghai"
     ]
   },
   {
@@ -1063,7 +1064,6 @@
     "isdst": false,
     "text": "(UTC+08:00) Krasnoyarsk",
     "utc": [
-      "Asia/Krasnoyarsk",
       "Asia/Krasnoyarsk"
     ]
   },
@@ -1074,10 +1074,10 @@
     "isdst": false,
     "text": "(UTC+08:00) Kuala Lumpur, Singapore",
     "utc": [
-      "Asia/Singapore",
       "Asia/Brunei",
+      "Asia/Kuala_Lumpur",
+      "Asia/Kuching",
       "Asia/Makassar",
-      "Asia/Kuala_Lumpur Asia/Kuching",
       "Asia/Manila",
       "Asia/Singapore",
       "Etc/GMT-8"
@@ -1090,7 +1090,6 @@
     "isdst": false,
     "text": "(UTC+08:00) Perth",
     "utc": [
-      "Australia/Perth",
       "Antarctica/Casey",
       "Australia/Perth"
     ]
@@ -1102,7 +1101,6 @@
     "isdst": false,
     "text": "(UTC+08:00) Taipei",
     "utc": [
-      "Asia/Taipei",
       "Asia/Taipei"
     ]
   },
@@ -1113,8 +1111,8 @@
     "isdst": false,
     "text": "(UTC+08:00) Ulaanbaatar",
     "utc": [
-      "Asia/Ulaanbaatar",
-      "Asia/Ulaanbaatar Asia/Choibalsan"
+      "Asia/Choibalsan",
+      "Asia/Ulaanbaatar"
     ]
   },
   {
@@ -1124,7 +1122,6 @@
     "isdst": false,
     "text": "(UTC+09:00) Irkutsk",
     "utc": [
-      "Asia/Irkutsk",
       "Asia/Irkutsk"
     ]
   },
@@ -1135,12 +1132,11 @@
     "isdst": false,
     "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
     "utc": [
-      "Asia/Tokyo",
+      "Asia/Dili",
       "Asia/Jayapura",
       "Asia/Tokyo",
-      "Pacific/Palau",
-      "Asia/Dili",
-      "Etc/GMT-9"
+      "Etc/GMT-9",
+      "Pacific/Palau"
     ]
   },
   {
@@ -1150,7 +1146,6 @@
     "isdst": false,
     "text": "(UTC+09:00) Seoul",
     "utc": [
-      "Asia/Seoul",
       "Asia/Pyongyang",
       "Asia/Seoul"
     ]
@@ -1163,7 +1158,7 @@
     "text": "(UTC+09:30) Adelaide",
     "utc": [
       "Australia/Adelaide",
-      "Australia/Adelaide Australia/Broken_Hill"
+      "Australia/Broken_Hill"
     ]
   },
   {
@@ -1173,7 +1168,6 @@
     "isdst": false,
     "text": "(UTC+09:30) Darwin",
     "utc": [
-      "Australia/Darwin",
       "Australia/Darwin"
     ]
   },
@@ -1185,7 +1179,7 @@
     "text": "(UTC+10:00) Brisbane",
     "utc": [
       "Australia/Brisbane",
-      "Australia/Brisbane Australia/Lindeman"
+      "Australia/Lindeman"
     ]
   },
   {
@@ -1195,8 +1189,8 @@
     "isdst": false,
     "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
     "utc": [
-      "Australia/Sydney",
-      "Australia/Sydney Australia/Melbourne"
+      "Australia/Melbourne",
+      "Australia/Sydney"
     ]
   },
   {
@@ -1206,13 +1200,12 @@
     "isdst": false,
     "text": "(UTC+10:00) Guam, Port Moresby",
     "utc": [
-      "Pacific/Port_Moresby",
       "Antarctica/DumontDUrville",
-      "Pacific/Truk",
+      "Etc/GMT-10",
       "Pacific/Guam",
-      "Pacific/Saipan",
       "Pacific/Port_Moresby",
-      "Etc/GMT-10"
+      "Pacific/Saipan",
+      "Pacific/Truk"
     ]
   },
   {
@@ -1222,8 +1215,8 @@
     "isdst": false,
     "text": "(UTC+10:00) Hobart",
     "utc": [
-      "Australia/Hobart",
-      "Australia/Hobart Australia/Currie"
+      "Australia/Currie",
+      "Australia/Hobart"
     ]
   },
   {
@@ -1233,8 +1226,9 @@
     "isdst": false,
     "text": "(UTC+10:00) Yakutsk",
     "utc": [
-      "Asia/Yakutsk",
-      "Asia/Yakutsk Asia/Chita Asia/Khandyga"
+      "Asia/Chita",
+      "Asia/Khandyga",
+      "Asia/Yakutsk"
     ]
   },
   {
@@ -1244,13 +1238,13 @@
     "isdst": false,
     "text": "(UTC+11:00) Solomon Is., New Caledonia",
     "utc": [
-      "Pacific/Guadalcanal",
       "Antarctica/Macquarie",
-      "Pacific/Ponape Pacific/Kosrae",
-      "Pacific/Noumea",
-      "Pacific/Guadalcanal",
+      "Etc/GMT-11",
       "Pacific/Efate",
-      "Etc/GMT-11"
+      "Pacific/Guadalcanal",
+      "Pacific/Kosrae",
+      "Pacific/Noumea",
+      "Pacific/Ponape"
     ]
   },
   {
@@ -1260,8 +1254,9 @@
     "isdst": false,
     "text": "(UTC+11:00) Vladivostok",
     "utc": [
-      "Asia/Vladivostok",
-      "Asia/Vladivostok Asia/Sakhalin Asia/Ust-Nera"
+      "Asia/Sakhalin",
+      "Asia/Ust-Nera",
+      "Asia/Vladivostok"
     ]
   },
   {
@@ -1271,7 +1266,6 @@
     "isdst": false,
     "text": "(UTC+12:00) Auckland, Wellington",
     "utc": [
-      "Pacific/Auckland",
       "Antarctica/McMurdo",
       "Pacific/Auckland"
     ]
@@ -1284,13 +1278,13 @@
     "text": "(UTC+12:00) Coordinated Universal Time+12",
     "utc": [
       "Etc/GMT-12",
-      "Pacific/Tarawa",
-      "Pacific/Majuro Pacific/Kwajalein",
-      "Pacific/Nauru",
       "Pacific/Funafuti",
+      "Pacific/Kwajalein",
+      "Pacific/Majuro",
+      "Pacific/Nauru",
+      "Pacific/Tarawa",
       "Pacific/Wake",
-      "Pacific/Wallis",
-      "Etc/GMT-12"
+      "Pacific/Wallis"
     ]
   },
   {
@@ -1300,7 +1294,6 @@
     "isdst": false,
     "text": "(UTC+12:00) Fiji",
     "utc": [
-      "Pacific/Fiji",
       "Pacific/Fiji"
     ]
   },
@@ -1311,8 +1304,10 @@
     "isdst": false,
     "text": "(UTC+12:00) Magadan",
     "utc": [
+      "Asia/Anadyr",
+      "Asia/Kamchatka",
       "Asia/Magadan",
-      "Asia/Magadan Asia/Anadyr Asia/Kamchatka Asia/Srednekolymsk"
+      "Asia/Srednekolymsk"
     ]
   },
   {
@@ -1329,11 +1324,10 @@
     "isdst": false,
     "text": "(UTC+13:00) Nuku'alofa",
     "utc": [
-      "Pacific/Tongatapu",
+      "Etc/GMT-13",
       "Pacific/Enderbury",
       "Pacific/Fakaofo",
-      "Pacific/Tongatapu",
-      "Etc/GMT-13"
+      "Pacific/Tongatapu"
     ]
   },
   {
@@ -1343,7 +1337,6 @@
     "isdst": false,
     "text": "(UTC+13:00) Samoa",
     "utc": [
-      "Pacific/Apia",
       "Pacific/Apia"
     ]
   }
