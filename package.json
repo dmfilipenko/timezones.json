@@ -1,5 +1,5 @@
 {
-  "name": "@atis/timezones.json",
+  "name": "timezones.json",
   "version": "1.0.1",
   "description": "Full list of UTC timezones",
   "main": "index.js",
