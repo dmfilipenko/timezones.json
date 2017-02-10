@@ -725,8 +725,8 @@
     "value": "Turkey Standard Time",
     "abbr": "TDT",
     "offset": 3,
-    "isdst": true,
-    "text": "(UTC+02:00) Istanbul",
+    "isdst": false,
+    "text": "(UTC+03:00) Istanbul",
     "utc": [
       "Europe/Istanbul"
     ]
