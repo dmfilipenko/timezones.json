@@ -820,6 +820,31 @@
     ]
   },
   {
+    "value": "Moscow Standard Time",
+    "abbr": "MSK",
+    "offset": 3,
+    "isdst": false,
+    "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd",
+    "utc": [
+	  "Europe/Kirov",
+      "Europe/Moscow",
+      "Europe/Simferopol",
+      "Europe/Volgograd"
+    ]
+  },
+  {
+    "value": "Samara Time",
+    "abbr": "SAMT",
+    "offset": 4,
+    "isdst": false,
+    "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
+    "utc": [
+	  "Europe/Astrakhan",
+      "Europe/Samara",
+	  "Europe/Ulyanovsk"
+    ]
+  },
+  {
     "value": "Iran Standard Time",
     "abbr": "IDT",
     "offset": 4.5,
@@ -849,19 +874,6 @@
     "text": "(UTC+04:00) Baku",
     "utc": [
       "Asia/Baku"
-    ]
-  },
-  {
-    "value": "Russian Standard Time",
-    "abbr": "RST",
-    "offset": 4,
-    "isdst": false,
-    "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
-    "utc": [
-      "Europe/Moscow",
-      "Europe/Samara",
-      "Europe/Simferopol",
-      "Europe/Volgograd"
     ]
   },
   {
