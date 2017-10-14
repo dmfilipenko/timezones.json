@@ -480,7 +480,7 @@
   },
   {
     "value": "UTC",
-    "abbr": "CUT",
+    "abbr": "UTC",
     "offset": 0,
     "isdst": false,
     "text": "(UTC) Coordinated Universal Time",
