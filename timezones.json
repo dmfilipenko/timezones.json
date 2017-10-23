@@ -442,7 +442,8 @@
     "abbr": "MDT",
     "offset": -1,
     "isdst": true,
-    "text": "(UTC-02:00) Mid-Atlantic - Old"
+    "text": "(UTC-02:00) Mid-Atlantic - Old",
+    "utc": []
   },
   {
     "value": "Azores Standard Time",
@@ -479,7 +480,7 @@
   },
   {
     "value": "UTC",
-    "abbr": "CUT",
+    "abbr": "UTC",
     "offset": 0,
     "isdst": false,
     "text": "(UTC) Coordinated Universal Time",
@@ -680,7 +681,24 @@
     "abbr": "EEDT",
     "offset": 3,
     "isdst": true,
-    "text": "(UTC+02:00) E. Europe"
+    "text": "(UTC+02:00) E. Europe",
+    "utc": [
+      "Asia/Nicosia",
+      "Europe/Athens",
+      "Europe/Bucharest",
+      "Europe/Chisinau",
+      "Europe/Helsinki",
+      "Europe/Kiev",
+      "Europe/Mariehamn",
+      "Europe/Nicosia",
+      "Europe/Riga",
+      "Europe/Sofia",
+      "Europe/Tallinn",
+      "Europe/Uzhgorod",
+      "Europe/Vilnius",
+      "Europe/Zaporozhye"
+
+    ]
   },
   {
     "value": "South Africa Standard Time",
@@ -820,6 +838,31 @@
     ]
   },
   {
+    "value": "Moscow Standard Time",
+    "abbr": "MSK",
+    "offset": 3,
+    "isdst": false,
+    "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd",
+    "utc": [
+	    "Europe/Kirov",
+      "Europe/Moscow",
+      "Europe/Simferopol",
+      "Europe/Volgograd"
+    ]
+  },
+  {
+    "value": "Samara Time",
+    "abbr": "SAMT",
+    "offset": 4,
+    "isdst": false,
+    "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
+    "utc": [
+	    "Europe/Astrakhan",
+      "Europe/Samara",
+	    "Europe/Ulyanovsk"
+    ]
+  },
+  {
     "value": "Iran Standard Time",
     "abbr": "IDT",
     "offset": 4.5,
@@ -849,19 +892,6 @@
     "text": "(UTC+04:00) Baku",
     "utc": [
       "Asia/Baku"
-    ]
-  },
-  {
-    "value": "Russian Standard Time",
-    "abbr": "RST",
-    "offset": 4,
-    "isdst": false,
-    "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
-    "utc": [
-      "Europe/Moscow",
-      "Europe/Samara",
-      "Europe/Simferopol",
-      "Europe/Volgograd"
     ]
   },
   {
