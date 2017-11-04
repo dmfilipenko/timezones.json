@@ -398,7 +398,7 @@
   {
     "value": "Greenland Standard Time",
     "abbr": "GDT",
-    "offset": -2,
+    "offset": -3,
     "isdst": true,
     "text": "(UTC-03:00) Greenland",
     "utc": [
