@@ -61,10 +61,24 @@
     ]
   },
   {
-    "value": "Pacific Standard Time",
+    "value": "Pacific Daylight Time",
     "abbr": "PDT",
     "offset": -7,
     "isdst": true,
+    "text": "(UTC-07:00) Pacific Time (US & Canada)",
+    "utc": [
+      "America/Dawson",
+      "America/Los_Angeles",
+      "America/Tijuana",
+      "America/Vancouver",
+      "America/Whitehorse"
+    ]
+  },
+  {
+    "value": "Pacific Standard Time",
+    "abbr": "PST",
+    "offset": -8,
+    "isdst": false,
     "text": "(UTC-08:00) Pacific Time (US & Canada)",
     "utc": [
       "America/Dawson",
@@ -958,7 +972,7 @@
   },
   {
     "value": "Pakistan Standard Time",
-    "abbr": "PST",
+    "abbr": "PKT",
     "offset": 5,
     "isdst": false,
     "text": "(UTC+05:00) Islamabad, Karachi",
