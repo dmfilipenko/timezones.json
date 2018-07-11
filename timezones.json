@@ -504,21 +504,43 @@
     ]
   },
   {
+    "value": "Greenwich Mean Time",
+    "abbr": "GMT",
+    "offset": 0,
+    "isdst": false,
+    "text": "(UTC) Edinburgh, London",
+    "utc": [
+      "Europe/Isle_of_Man",
+      "Europe/Guernsey",
+      "Europe/Jersey",
+      "Europe/London"
+    ]
+  },
+  {
+    "value": "British Summer Time",
+    "abbr": "BST",
+    "offset": 1,
+    "isdst": true,
+    "text": "(UTC+01:00) Edinburgh, London",
+    "utc": [
+      "Europe/Isle_of_Man",
+      "Europe/Guernsey",
+      "Europe/Jersey",
+      "Europe/London"
+    ]
+  },
+  {
     "value": "GMT Standard Time",
     "abbr": "GDT",
     "offset": 1,
     "isdst": true,
-    "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+    "text": "(UTC) Dublin, Lisbon",
     "utc": [
       "Atlantic/Canary",
       "Atlantic/Faeroe",
       "Atlantic/Madeira",
       "Europe/Dublin",
-      "Europe/Guernsey",
-      "Europe/Isle_of_Man",
-      "Europe/Jersey",
-      "Europe/Lisbon",
-      "Europe/London"
+      "Europe/Lisbon"
     ]
   },
   {
@@ -1170,8 +1192,8 @@
     ]
   },
   {
-    "value": "Tokyo Standard Time",
-    "abbr": "TST",
+    "value": "Japan Standard Time",
+    "abbr": "JST",
     "offset": 9,
     "isdst": false,
     "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
