@@ -994,10 +994,10 @@
   },
   {
     "value": "Ekaterinburg Standard Time",
-    "abbr": "EST",
+    "abbr": "YEKT",
     "offset": 5,
     "isdst": false,
-    "text": "(UTC+05:00) Ekaterinburg",
+    "text": "(UTC+05:00) Yekaterinburg",
     "utc": [
       "Asia/Yekaterinburg"
     ]
