@@ -993,6 +993,16 @@
     ]
   },
   {
+    "value": "Ekaterinburg Standard Time",
+    "abbr": "EST",
+    "offset": 5,
+    "isdst": false,
+    "text": "(UTC+05:00) Ekaterinburg",
+    "utc": [
+      "Asia/Yekaterinburg"
+    ]
+  },
+  {
     "value": "Pakistan Standard Time",
     "abbr": "PKT",
     "offset": 5,
@@ -1057,16 +1067,6 @@
     "utc": [
       "Asia/Dhaka",
       "Asia/Thimphu"
-    ]
-  },
-  {
-    "value": "Ekaterinburg Standard Time",
-    "abbr": "EST",
-    "offset": 6,
-    "isdst": false,
-    "text": "(UTC+06:00) Ekaterinburg",
-    "utc": [
-      "Asia/Yekaterinburg"
     ]
   },
   {
