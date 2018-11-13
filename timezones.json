@@ -1261,6 +1261,17 @@
       "Australia/Sydney"
     ]
   },
+	{
+    "value": "Australian Eastern Daylight Time",
+    "abbr": "AEDT",
+    "offset": 11,
+    "isdst": true,
+    "text": "(UTC+11:00) Canberra, Melbourne, Sydney",
+    "utc": [
+      "Australia/Melbourne",
+      "Australia/Sydney"
+    ]
+  },
   {
     "value": "West Pacific Standard Time",
     "abbr": "WPST",
