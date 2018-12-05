@@ -1128,7 +1128,7 @@
     "abbr": "NAST",
     "offset": 8,
     "isdst": false,
-    "text": "(UTC+08:00) Krasnoyarsk",
+    "text": "(UTC+07:00) Krasnoyarsk",
     "utc": [
       "Asia/Krasnoyarsk"
     ]
