@@ -1184,9 +1184,9 @@
   {
     "value": "North Asia East Standard Time",
     "abbr": "NAEST",
-    "offset": 9,
+    "offset": 8,
     "isdst": false,
-    "text": "(UTC+09:00) Irkutsk",
+    "text": "(UTC+08:00) Irkutsk",
     "utc": [
       "Asia/Irkutsk"
     ]
@@ -1288,9 +1288,9 @@
   {
     "value": "Yakutsk Standard Time",
     "abbr": "YST",
-    "offset": 10,
+    "offset": 9,
     "isdst": false,
-    "text": "(UTC+10:00) Yakutsk",
+    "text": "(UTC+09:00) Yakutsk",
     "utc": [
       "Asia/Chita",
       "Asia/Khandyga",
