@@ -944,7 +944,7 @@
   },
   {
     "value": "Georgian Standard Time",
-    "abbr": "GST",
+    "abbr": "GET",
     "offset": 4,
     "isdst": false,
     "text": "(UTC+04:00) Tbilisi",
