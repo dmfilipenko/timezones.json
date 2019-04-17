@@ -504,7 +504,7 @@
     ]
   },
   {
-    "value": "Greenwich Mean Time",
+    "value": "GMT Standard Time",
     "abbr": "GMT",
     "offset": 0,
     "isdst": false,
