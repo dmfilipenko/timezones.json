@@ -37,6 +37,48 @@
     ]
   },
   {
+    "value": "Marquesas Standard Time",
+    "abbr": "MART",
+    "offset": -9.5,
+    "isdst": false,
+    "text": "(UTC-09:30) Marquesas Islands",
+    "utc": [
+      "Pacific/Marquesas"
+    ]
+  },
+  {
+    "value": "UTC-09",
+    "abbr": "HADT",
+    "offset": -9,
+    "isdst": false,
+    "text": "(UTC-09:00) Coordinated Universal Time-09",
+    "utc": [
+      "Etc/GMT+9",
+      "Pacific/Gambier"
+    ]
+  },
+  {
+    "value": "UTC-08",
+    "abbr": "HADT",
+    "offset": -8,
+    "isdst": false,
+    "text": "(UTC-08:00) Coordinated Universal Time-08",
+    "utc": [
+      "Etc/GMT+8",
+      "Pacific/Pitcairn"
+    ]
+  },
+  {
+    "value": "Aleutian Standard Time",
+    "abbr": "HADT",
+    "offset": -9,
+    "isdst": true,
+    "text": "(UTC-10:00) Aleutian Islands",
+    "utc": [
+      "America/Adak"
+    ]
+  },
+  {
     "value": "Alaskan Standard Time",
     "abbr": "AKDT",
     "offset": -8,
@@ -149,6 +191,18 @@
     ]
   },
   {
+    "value": "Easter Island Standard Time",
+    "abbr": "EAST",
+    "offset": -5,
+    "isdst": true,
+    "text": "(UTC-06:00) Easter Island",
+    "utc": [
+      "Pacific/Easter",
+      "America/Chicago",
+      "America/Indiana/Knox"
+    ]
+  },
+  {
     "value": "Central Standard Time",
     "abbr": "CDT",
     "offset": -5,
@@ -212,6 +266,17 @@
       "America/Panama",
       "America/Rio_Branco",
       "Etc/GMT+5"
+    ]
+  },
+  {
+    "value": "Eastern Standard Time (Mexico)",
+    "abbr": "SPST",
+    "offset": -5,
+    "isdst": true,
+    "text": "(UTC-05:00) Chetumal",
+    "utc": [
+      "America/Mexico_City",
+      "Mexico/General"
     ]
   },
   {
