@@ -504,7 +504,7 @@
     ]
   },
   {
-    "value": "Greenwich Mean Time",
+    "value": "GMT Standard Time",
     "abbr": "GMT",
     "offset": 0,
     "isdst": false,
@@ -944,7 +944,7 @@
   },
   {
     "value": "Georgian Standard Time",
-    "abbr": "GST",
+    "abbr": "GET",
     "offset": 4,
     "isdst": false,
     "text": "(UTC+04:00) Tbilisi",
@@ -1039,7 +1039,7 @@
     "isdst": false,
     "text": "(UTC+05:45) Kathmandu",
     "utc": [
-      "Asia/Katmandu"
+      "Asia/Kathmandu"
     ]
   },
   {
@@ -1186,9 +1186,9 @@
   {
     "value": "North Asia East Standard Time",
     "abbr": "NAEST",
-    "offset": 9,
+    "offset": 8,
     "isdst": false,
-    "text": "(UTC+09:00) Irkutsk",
+    "text": "(UTC+08:00) Irkutsk",
     "utc": [
       "Asia/Irkutsk"
     ]
@@ -1301,9 +1301,9 @@
   {
     "value": "Yakutsk Standard Time",
     "abbr": "YST",
-    "offset": 10,
+    "offset": 9,
     "isdst": false,
-    "text": "(UTC+10:00) Yakutsk",
+    "text": "(UTC+09:00) Yakutsk",
     "utc": [
       "Asia/Chita",
       "Asia/Khandyga",
