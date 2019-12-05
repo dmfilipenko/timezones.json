@@ -306,6 +306,84 @@
     ]
   },
   {
+    "value": "Haiti Standard Time",
+    "abbr": "EDT",
+    "offset": -4,
+    "isdst": true,
+    "text": "(UTC-05:00) Haiti",
+    "utc": [
+      "America/Detroit",
+      "America/Havana",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Iqaluit",
+      "America/Kentucky/Monticello",
+      "America/Louisville",
+      "America/Montreal",
+      "America/Nassau",
+      "America/New_York",
+      "America/Nipigon",
+      "America/Pangnirtung",
+      "America/Port-au-Prince",
+      "America/Thunder_Bay",
+      "America/Toronto",
+      "EST5EDT"
+    ]
+  },
+  {
+    "value": "Cuba Standard Time",
+    "abbr": "CDT",
+    "offset": -4,
+    "isdst": true,
+    "text": "(UTC-05:00) Havana",
+    "utc": [
+      "America/Detroit",
+      "America/Havana",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Iqaluit",
+      "America/Kentucky/Monticello",
+      "America/Louisville",
+      "America/Montreal",
+      "America/Nassau",
+      "America/New_York",
+      "America/Nipigon",
+      "America/Pangnirtung",
+      "America/Port-au-Prince",
+      "America/Thunder_Bay",
+      "America/Toronto",
+      "EST5EDT"
+    ]
+  },
+  {
+    "value": "Turks And Caicos Standard Time",
+    "abbr": "EDT",
+    "offset": -4,
+    "isdst": true,
+    "text": "(UTC-05:00) Turks and Caicos",
+    "utc": [
+      "America/Detroit",
+      "America/Havana",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Iqaluit",
+      "America/Kentucky/Monticello",
+      "America/Louisville",
+      "America/Montreal",
+      "America/Nassau",
+      "America/New_York",
+      "America/Nipigon",
+      "America/Pangnirtung",
+      "America/Port-au-Prince",
+      "America/Thunder_Bay",
+      "America/Toronto",
+      "EST5EDT"
+    ]
+  },
+  {
     "value": "US Eastern Standard Time",
     "abbr": "UEDT",
     "offset": -4,
@@ -455,6 +533,37 @@
     ]
   },
   {
+    "value": "Tocantins Standard Time",
+    "abbr": "SEST",
+    "offset": -3,
+    "isdst": false,
+    "text": "(UTC-03:00) Araguaina",
+    "utc": [
+      "America/Araguaina",
+      "America/Belem",
+      "America/Cayenne",
+      "America/Fortaleza",
+      "America/Maceio",
+      "America/Paramaribo",
+      "America/Recife",
+      "America/Santarem",
+      "Antarctica/Rothera",
+      "Atlantic/Stanley",
+      "Etc/GMT+3"
+    ]
+  },
+  {
+    "value": "Magallanes Standard Time",
+    "abbr": "SEST",
+    "offset": -3,
+    "isdst": false,
+    "text": "(UTC-03:00) Punta Arenas",
+    "utc": [
+      "America/Punta_Arenas",
+      "Etc/GMT+3"
+    ]
+  },
+  {
     "value": "SA Eastern Standard Time",
     "abbr": "SEST",
     "offset": -3,
@@ -502,6 +611,19 @@
     "text": "(UTC-03:00) Salvador",
     "utc": [
       "America/Bahia"
+    ]
+  },
+  {
+    "value": "Saint Pierre Standard Time",
+    "abbr": "U",
+    "offset": -2,
+    "isdst": true,
+    "text": "(UTC-03:00) Saint Pierre and Miquelon",
+    "utc": [
+      "America/Miquelon",
+      "America/Sao_Paulo",
+      "Brazil/East",
+      "America/Godthab"
     ]
   },
   {
@@ -579,6 +701,17 @@
       "Europe/Guernsey",
       "Europe/Jersey",
       "Europe/London"
+    ]
+  },
+  {
+    "value": "Sao Tome Standard Time",
+    "abbr": "WAT",
+    "offset": 0,
+    "isdst": false,
+    "text": "(UTC+00:00) Sao Tome",
+    "utc": [
+      "Africa/Sao_Tome",
+      "Africa/Timbuktu"
     ]
   },
   {
@@ -686,6 +819,70 @@
       "Europe/Copenhagen",
       "Europe/Madrid",
       "Europe/Paris"
+    ]
+  },
+  {
+    "value": "West Bank Standard Time",
+    "abbr": "WBST",
+    "offset": 2,
+    "isdst": true,
+    "text": "(UTC+02:00) Gaza, Hebron",
+    "utc": [
+      "Asia/Gaza",
+      "Asia/Hebron"
+    ]
+  },
+  {
+    "value": "West Bank Gaza Standard Time",
+    "abbr": "WBGST",
+    "offset": 2,
+    "isdst": true,
+    "text": "(UTC+02:00) Gaza, Hebron",
+    "utc": [
+      "Asia/Gaza",
+      "Asia/Hebron"
+    ]
+  },
+  {
+    "value": "West Bank Gaza Daylight Time",
+    "abbr": "PST",
+    "offset": 2,
+    "isdst": true,
+    "text": "(UTC+02:00) Gaza, Hebron",
+    "utc": [
+      "Asia/Gaza",
+      "Asia/Hebron"
+    ]
+  },
+  {
+    "value": "Russia TZ 1 Standard Time",
+    "abbr": "KALT",
+    "offset": 2,
+    "isdst": true,
+    "text": "(UTC+03:00) Kaliningrad",
+    "utc": [
+      "Europe/Kaliningrad"
+    ]
+  },
+  {
+    "value": "Belarus Standard Time",
+    "abbr": "FET",
+    "offset": 3,
+    "isdst": true,
+    "text": "(UTC+03:00) Minsk",
+    "utc": [
+      "Europe/Minsk",
+      "Etc/GMT-3"
+    ]
+  },
+  {
+    "value": "Russia TZ 2 Standard Time",
+    "abbr": "MSK",
+    "offset": 3,
+    "isdst": true,
+    "text": "(UTC+03:00) Moscow, St. Petersburg",
+    "utc": [
+      "Europe/Moscow"
     ]
   },
   {
@@ -964,6 +1161,17 @@
     ]
   },
   {
+    "value": "Astrakhan Standard Time",
+    "abbr": "MSK+01",
+    "offset": 3,
+    "isdst": true,
+    "text": "(UTC+04:00) Astrakhan, Ulyanovsk",
+    "utc": [
+      "Europe/Astrakhan",
+      "Europe/Ulyanovsk"
+    ]
+  },
+  {
     "value": "Iran Standard Time",
     "abbr": "IDT",
     "offset": 4.5,
@@ -1055,6 +1263,36 @@
       "Etc/GMT-5",
       "Indian/Kerguelen",
       "Indian/Maldives"
+    ]
+  },
+  {
+    "value": "Russia TZ 3 Standard Time",
+    "abbr": "SAMT",
+    "offset": 4,
+    "isdst": false,
+    "text": "(UTC+04:00) Izhevsk, Samara",
+    "utc": [
+      "Europe/Samara"
+    ]
+  },
+  {
+    "value": "Saratov Standard Time",
+    "abbr": "MSK+01",
+    "offset": 4,
+    "isdst": false,
+    "text": "(UTC+04:00) Saratov",
+    "utc": [
+      "Europe/Saratov"
+    ]
+  },
+  {
+    "value": "Volgograd Standard Time",
+    "abbr": "VOLT",
+    "offset": 4,
+    "isdst": false,
+    "text": "(UTC+04:00) Volgograd",
+    "utc": [
+      "Europe/Volgograd"
     ]
   },
   {
@@ -1259,6 +1497,100 @@
     ]
   },
   {
+    "value": "Russia TZ 4 Standard Time",
+    "abbr": "MSK+02",
+    "offset": 5,
+    "isdst": false,
+    "text": "(UTC+05:00) Ekaterinburg",
+    "utc": [
+      "Asia/Yekaterinburg"
+    ]
+  },
+  {
+    "value": "Qyzylorda Standard Time",
+    "abbr": "",
+    "offset": 5,
+    "isdst": false,
+    "text": "(UTC+05:00) Qyzylorda",
+    "utc": [
+      "Asia/Qyzylorda"
+    ]
+  },
+  {
+    "value": "Omsk Standard Time",
+    "abbr": "MSK+03",
+    "offset": 6,
+    "isdst": false,
+    "text": "(UTC+06:00) Omsk",
+    "utc": [
+      "Asia/Omsk"
+    ]
+  },
+  {
+    "value": "Altai Standard Time",
+    "abbr": "MSK+04",
+    "offset": 7,
+    "isdst": false,
+    "text": "(UTC+07:00) Barnaul, Gorno-Altaysk",
+    "utc": [
+      "Asia/Barnaul"
+    ]
+  },
+  {
+    "value": "W. Mongolia Standard Time",
+    "abbr": "",
+    "offset": 7,
+    "isdst": false,
+    "text": "(UTC+07:00) Hovd",
+    "utc": [
+      "Asia/Hovd"
+    ]
+  },
+  {
+    "value": "Tomsk Standard Time",
+    "abbr": "MSK+04",
+    "offset": 7,
+    "isdst": false,
+    "text": "(UTC+07:00) Tomsk",
+    "utc": [
+      "Asia/Tomsk"
+    ]
+  },
+  {
+    "value": "Aus Central W. Standard Time",
+    "abbr": "ACWST",
+    "offset": 8.75,
+    "isdst": false,
+    "text": "(UTC+08:45) Eucla",
+    "utc": [
+      "Australia/Eucla"
+    ]
+  },
+  {
+    "value": "Transbaikal Standard Time",
+    "abbr": "TST",
+    "offset": 9,
+    "isdst": false,
+    "text": "(UTC+09:00) Chita",
+    "utc": [
+      "Asia/Chita"
+    ]
+  },
+  {
+    "value": "Tokyo Standard Time",
+    "abbr": "TST",
+    "offset": 9,
+    "isdst": false,
+    "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "utc": [
+      "Asia/Tokyo",
+      "Etc/GMT-9",
+      "Asia/Dili",
+      "Asia/Jayapura",
+      "Pacific/Palau"
+    ]
+  },
+  {
     "value": "Japan Standard Time",
     "abbr": "JST",
     "offset": 9,
@@ -1392,7 +1724,57 @@
     ]
   },
 	{
-    "value": "Sakhalin Time",
+    "value": "North Korea Standard Time",
+    "abbr": "BST",
+    "offset": 9,
+    "isdst": false,
+    "text": "(UTC+09:00) Pyongyang",
+    "utc": [
+      "Asia/Pyongyang"
+    ]
+  },
+	{
+    "value": "Lord Howe Standard Time",
+    "abbr": "BST",
+    "offset": 10.5,
+    "isdst": false,
+    "text": "(UTC+10:30) Lord Howe Island",
+    "utc": [
+      "Australia/Lord_Howe"
+    ]
+  },
+	{
+    "value": "Bougainville Standard Time",
+    "abbr": "BST",
+    "offset": 11,
+    "isdst": false,
+    "text": "(UTC+11:00) Bougainville Island",
+    "utc": [
+      "Pacific/Bougainville"
+    ]
+  },
+	{
+    "value": "Russia TZ 10 Standard Time",
+    "abbr": "SRET",
+    "offset": 11,
+    "isdst": false,
+    "text": "(UTC+11:00) Chokurdakh",
+    "utc": [
+      "Etc/GMT-11"
+    ]
+  },
+	{
+    "value": "Norfolk Standard Time",
+    "abbr": "",
+    "offset": 11,
+    "isdst": false,
+    "text": "(UTC+11:00) Norfolk Island",
+    "utc": [
+      "Pacific/Norfolk"
+    ]
+  },
+	{
+    "value": "Sakhalin Standard Time",
     "abbr": "SAKT",
     "offset": 11,
     "isdst": false,
@@ -1410,6 +1792,16 @@
     "utc": [
       "Asia/Ust-Nera",
       "Asia/Vladivostok"
+    ]
+  },
+  {
+    "value": "Russia TZ 11 Standard Time",
+    "abbr": "",
+    "offset": 12,
+    "isdst": true,
+    "text": "(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky",
+    "utc": [
+      "Asia/Anadyr"
     ]
   },
   {
@@ -1474,6 +1866,26 @@
     ]
   },
   {
+    "value": "Chatham Islands Standard Time",
+    "abbr": "CIST",
+    "offset": 13.75,
+    "isdst": true,
+    "text": "(UTC+12:45) Chatham Islands",
+    "utc": [
+      "Pacific/Chatham"
+    ]
+  },
+  {
+    "value": "UTC+13",
+    "abbr": "UTC+13",
+    "offset": 13,
+    "isdst": false,
+    "text": "(UTC+13:00) Coordinated Universal Time+13",
+    "utc": [
+      "Etc/GMT-13"
+    ]
+  },
+  {
     "value": "Tonga Standard Time",
     "abbr": "TST",
     "offset": 13,
@@ -1494,6 +1906,16 @@
     "text": "(UTC+13:00) Samoa",
     "utc": [
       "Pacific/Apia"
+    ]
+  },
+  {
+    "value": "Line Islands Standard Time",
+    "abbr": "LIST",
+    "offset": 14,
+    "isdst": false,
+    "text": "(UTC+14:00) Kiritimati Island",
+    "utc": [
+      "Pacific/Kiritimati"
     ]
   }
 ]
