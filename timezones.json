@@ -38,7 +38,7 @@
   },
   {
     "value": "Alaskan Standard Time",
-    "abbr": "AKDT",
+    "abbr": "AKST",
     "offset": -9,
     "isdst": true,
     "text": "(UTC-09:00) Alaska",
@@ -52,7 +52,7 @@
   },
   {
     "value": "Pacific Standard Time (Mexico)",
-    "abbr": "PDT",
+    "abbr": "PST",
     "offset": -8,
     "isdst": true,
     "text": "(UTC-08:00) Baja California",
@@ -105,7 +105,7 @@
   },
   {
     "value": "Mountain Standard Time (Mexico)",
-    "abbr": "MDT",
+    "abbr": "MST",
     "offset": -7,
     "isdst": true,
     "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
@@ -116,7 +116,7 @@
   },
   {
     "value": "Mountain Standard Time",
-    "abbr": "MDT",
+    "abbr": "MST",
     "offset": -7,
     "isdst": true,
     "text": "(UTC-07:00) Mountain Time (US & Canada)",
@@ -150,7 +150,7 @@
   },
   {
     "value": "Central Standard Time",
-    "abbr": "CDT",
+    "abbr": "CST",
     "offset": -6,
     "isdst": true,
     "text": "(UTC-06:00) Central Time (US & Canada)",
@@ -172,7 +172,7 @@
   },
   {
     "value": "Central Standard Time (Mexico)",
-    "abbr": "CDT",
+    "abbr": "CST",
     "offset": -6,
     "isdst": true,
     "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
@@ -216,7 +216,7 @@
   },
   {
     "value": "Eastern Standard Time",
-    "abbr": "EDT",
+    "abbr": "EST",
     "offset": -5,
     "isdst": true,
     "text": "(UTC-05:00) Eastern Time (US & Canada)",
@@ -274,7 +274,7 @@
   },
   {
     "value": "Atlantic Standard Time",
-    "abbr": "ADT",
+    "abbr": "AST",
     "offset": -4,
     "isdst": true,
     "text": "(UTC-04:00) Atlantic Time (Canada)",
@@ -595,7 +595,7 @@
   },
   {
     "value": "Central Europe Standard Time",
-    "abbr": "CEDT",
+    "abbr": "CEST",
     "offset": 1,
     "isdst": true,
     "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
@@ -625,7 +625,7 @@
   },
   {
     "value": "Central European Standard Time",
-    "abbr": "CEDT",
+    "abbr": "CEST",
     "offset": 1,
     "isdst": true,
     "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
