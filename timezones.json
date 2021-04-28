@@ -67,11 +67,9 @@
     "isdst": true,
     "text": "(UTC-07:00) Pacific Time (US & Canada)",
     "utc": [
-      "America/Dawson",
       "America/Los_Angeles",
       "America/Tijuana",
-      "America/Vancouver",
-      "America/Whitehorse"
+      "America/Vancouver"
     ]
   },
   {
@@ -81,11 +79,9 @@
     "isdst": false,
     "text": "(UTC-08:00) Pacific Time (US & Canada)",
     "utc": [
-      "America/Dawson",
       "America/Los_Angeles",
       "America/Tijuana",
       "America/Vancouver",
-      "America/Whitehorse",
       "PST8PDT"
     ]
   },
@@ -97,9 +93,11 @@
     "text": "(UTC-07:00) Arizona",
     "utc": [
       "America/Creston",
+      "America/Dawson",
       "America/Dawson_Creek",
       "America/Hermosillo",
       "America/Phoenix",
+      "America/Whitehorse",
       "Etc/GMT+7"
     ]
   },
