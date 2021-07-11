@@ -1,4 +1,4 @@
-[
+[  
   {
     "value": "Dateline Standard Time",
     "abbr": "DST",
@@ -117,6 +117,23 @@
   {
     "value": "Mountain Standard Time",
     "abbr": "MDT",
+    "offset": -7,
+    "isdst": false,
+    "text": "(UTC-07:00) Mountain Time (US & Canada)",
+    "utc": [
+      "America/Boise",
+      "America/Cambridge_Bay",
+      "America/Denver",
+      "America/Edmonton",
+      "America/Inuvik",
+      "America/Ojinaga",
+      "America/Yellowknife",
+      "MST7MDT"
+    ]
+  },
+  {
+    "value": "Mountain Daylight Time",
+    "abbr": "MDT",
     "offset": -6,
     "isdst": true,
     "text": "(UTC-07:00) Mountain Time (US & Canada)",
@@ -150,6 +167,28 @@
   },
   {
     "value": "Central Standard Time",
+    "abbr": "CST",
+    "offset": -6,
+    "isdst": false,
+    "text": "(UTC-06:00) Central Time (US & Canada)",
+    "utc": [
+      "America/Chicago",
+      "America/Indiana/Knox",
+      "America/Indiana/Tell_City",
+      "America/Matamoros",
+      "America/Menominee",
+      "America/North_Dakota/Beulah",
+      "America/North_Dakota/Center",
+      "America/North_Dakota/New_Salem",
+      "America/Rainy_River",
+      "America/Rankin_Inlet",
+      "America/Resolute",
+      "America/Winnipeg",
+      "CST6CDT"
+    ]
+  },
+  {
+    "value": "Central Daylight Time",
     "abbr": "CDT",
     "offset": -5,
     "isdst": true,
@@ -217,6 +256,35 @@
   {
     "value": "Eastern Standard Time",
     "abbr": "EDT",
+    "offset": -5,
+    "isdst": false,
+    "text": "(UTC-05:00) Eastern Time (US & Canada)",
+    "utc": [
+      "America/Detroit",
+      "America/Havana",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Iqaluit",
+      "America/Kentucky/Monticello",
+      "America/Louisville",
+      "America/Montreal",
+      "America/Nassau",
+      "America/New_York",
+      "America/Nipigon",
+      "America/Pangnirtung",
+      "America/Port-au-Prince",
+      "America/Thunder_Bay",
+      "America/Toronto",
+      "America/Indiana/Marengo",
+      "America/Indiana/Vevay",
+      "America/Indianapolis",
+      "EST5EDT"
+    ]
+  },
+  {
+    "value": "Eastern Daylight Time",
+    "abbr": "EDT",
     "offset": -4,
     "isdst": true,
     "text": "(UTC-05:00) Eastern Time (US & Canada)",
@@ -237,19 +305,10 @@
       "America/Port-au-Prince",
       "America/Thunder_Bay",
       "America/Toronto",
-      "EST5EDT"
-    ]
-  },
-  {
-    "value": "US Eastern Standard Time",
-    "abbr": "UEDT",
-    "offset": -4,
-    "isdst": true,
-    "text": "(UTC-05:00) Indiana (East)",
-    "utc": [
       "America/Indiana/Marengo",
       "America/Indiana/Vevay",
-      "America/Indianapolis"
+      "America/Indianapolis",
+      "EST5EDT"
     ]
   },
   {
@@ -879,7 +938,7 @@
     "isdst": false,
     "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
     "utc": [
-	    "Europe/Kirov",
+      "Europe/Kirov",
       "Europe/Moscow",
       "Europe/Simferopol",
       "Europe/Volgograd",
@@ -893,9 +952,9 @@
     "isdst": false,
     "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
     "utc": [
-	    "Europe/Astrakhan",
+      "Europe/Astrakhan",
       "Europe/Samara",
-	    "Europe/Ulyanovsk"
+      "Europe/Ulyanovsk"
     ]
   },
   {
