@@ -1,6 +1,6 @@
 {
   "name": "timezones.json",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "Full list of UTC timezones",
   "main": "index.js",
   "repository": {
