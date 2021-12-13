@@ -215,7 +215,7 @@
   {
     "value": "Eastern Standard Time",
     "abbr": "EDT",
-    "offset": -4,
+    "offset": -5,
     "isdst": true,
     "text": "(UTC-05:00) Eastern Time (US & Canada)",
     "utc": [
@@ -241,7 +241,7 @@
   {
     "value": "US Eastern Standard Time",
     "abbr": "UEDT",
-    "offset": -4,
+    "offset": -5,
     "isdst": true,
     "text": "(UTC-05:00) Indiana (East)",
     "utc": [
