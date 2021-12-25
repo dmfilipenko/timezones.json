@@ -214,9 +214,9 @@
   },
   {
     "value": "Eastern Standard Time",
-    "abbr": "EDT",
-    "offset": -4,
-    "isdst": true,
+    "abbr": "EST",
+    "offset": -5,
+    "isdst": false,
     "text": "(UTC-05:00) Eastern Time (US & Canada)",
     "utc": [
       "America/Detroit",
@@ -234,15 +234,39 @@
       "America/Pangnirtung",
       "America/Port-au-Prince",
       "America/Thunder_Bay",
-      "America/Toronto",
-      "EST5EDT"
+      "America/Toronto"
+    ]
+  },
+  {
+    "value": "Eastern Daylight Time",
+    "abbr": "EDT",
+    "offset": -4,
+    "isdst": true,
+    "text": "(UTC-04:00) Eastern Daylight Time (US & Canada)",
+    "utc": [
+      "America/Detroit",
+      "America/Havana",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Iqaluit",
+      "America/Kentucky/Monticello",
+      "America/Louisville",
+      "America/Montreal",
+      "America/Nassau",
+      "America/New_York",
+      "America/Nipigon",
+      "America/Pangnirtung",
+      "America/Port-au-Prince",
+      "America/Thunder_Bay",
+      "America/Toronto"
     ]
   },
   {
     "value": "US Eastern Standard Time",
     "abbr": "UEDT",
-    "offset": -4,
-    "isdst": true,
+    "offset": -5,
+    "isdst": false,
     "text": "(UTC-05:00) Indiana (East)",
     "utc": [
       "America/Indiana/Marengo",
