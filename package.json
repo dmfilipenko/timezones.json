@@ -1,6 +1,6 @@
 {
   "name": "timezones.json",
-  "version": "1.5.3",
+  "version": "1.6.0",
   "description": "Full list of UTC timezones",
   "main": "index.js",
   "repository": {
@@ -13,7 +13,7 @@
     "time",
     "UTC"
   ],
-  "author": "Dmitriy Filipenko",
+  "author": "Dmytro Filipenko",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dmfilipenko/timezones.json/issues"
