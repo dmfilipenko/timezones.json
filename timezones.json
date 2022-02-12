@@ -65,7 +65,7 @@
     "abbr": "PDT",
     "offset": -7,
     "isdst": true,
-    "text": "(UTC-07:00) Pacific Time (US & Canada)",
+    "text": "(UTC-07:00) Pacific Daylight Time (US & Canada)",
     "utc": [
       "America/Los_Angeles",
       "America/Tijuana",
@@ -77,7 +77,7 @@
     "abbr": "PST",
     "offset": -8,
     "isdst": false,
-    "text": "(UTC-08:00) Pacific Time (US & Canada)",
+    "text": "(UTC-08:00) Pacific Standard Time (US & Canada)",
     "utc": [
       "America/Los_Angeles",
       "America/Tijuana",
