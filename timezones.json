@@ -397,7 +397,12 @@
     "isdst": false,
     "text": "(UTC-03:00) Buenos Aires",
     "utc": [
+      "America/Argentina/Buenos_Aires",
+      "America/Argentina/Catamarca",
+      "America/Argentina/Cordoba",
+      "America/Argentina/Jujuy",
       "America/Argentina/La_Rioja",
+      "America/Argentina/Mendoza",
       "America/Argentina/Rio_Gallegos",
       "America/Argentina/Salta",
       "America/Argentina/San_Juan",
