@@ -751,7 +751,7 @@
       "Europe/Bucharest",
       "Europe/Chisinau",
       "Europe/Helsinki",
-      "Europe/Kiev",
+      "Europe/Kyiv",
       "Europe/Mariehamn",
       "Europe/Nicosia",
       "Europe/Riga",
@@ -792,7 +792,7 @@
     "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
     "utc": [
       "Europe/Helsinki",
-      "Europe/Kiev",
+      "Europe/Kyiv",
       "Europe/Mariehamn",
       "Europe/Riga",
       "Europe/Sofia",
