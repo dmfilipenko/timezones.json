@@ -733,7 +733,7 @@
     "value": "Syria Standard Time",
     "abbr": "SDT",
     "offset": 3,
-    "isdst": true,
+    "isdst": false,
     "text": "(UTC+02:00) Damascus",
     "utc": [
       "Asia/Damascus"
