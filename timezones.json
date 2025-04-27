@@ -1136,7 +1136,8 @@
     "utc": [
       "Asia/Novokuznetsk",
       "Asia/Novosibirsk",
-      "Asia/Omsk"
+      "Asia/Omsk",
+      "Asia/Tomsk"
     ]
   },
   {
@@ -1343,16 +1344,26 @@
   },
   {
     "value": "Vladivostok Standard Time",
-    "abbr": "VST",
-    "offset": 11,
+    "abbr": "VLAT",
+    "offset": 10,
     "isdst": false,
-    "text": "(UTC+11:00) Vladivostok",
+    "text": "(UTC+10:00) Vladivostok",
     "utc": [
-      "Asia/Sakhalin",
       "Asia/Ust-Nera",
       "Asia/Vladivostok"
     ]
   },
+  {
+    "value": "Sakhalin Standard Time",
+    "abbr": "SAKT",
+    "offset": 11,
+    "isdst": false,
+    "text": "(UTC+11:00) Sakhalin",
+    "utc": [
+      "Asia/Sakhalin"
+    ]
+  },
+
   {
     "value": "New Zealand Standard Time",
     "abbr": "NZST",
